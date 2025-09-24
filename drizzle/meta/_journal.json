@@ -15,6 +15,20 @@
       "when": 1758551742608,
       "tag": "0001_perpetual_clint_barton",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1758679997110,
+      "tag": "0002_cheerful_spyke",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1758680245946,
+      "tag": "0003_superb_slyde",
+      "breakpoints": true
     }
   ]
 }
